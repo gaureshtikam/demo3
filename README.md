@@ -1,4 +1,4 @@
 # demo3
 This is my first Git Repository.
 <br>
-Author - Gauresh Tikam
+Author - Gauresh Tikam (Demo3)
